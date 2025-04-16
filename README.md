@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=1ACBC3&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!👋;I'm+Mohamed+Aboabdallah!;Machine+Learning+Engineer!;" />
 </h1>
 <h3 align="center"> 
-A passionate Full Stack Developer specializing in building dynamic, scalable, and user-friendly web applications, with experience managing projects from concept to deployment.
+A passionate Machine Learning Engineer specializing in developing intelligent, data-driven solutions, with experience designing, training, and deploying scalable models from concept to production.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="omarhany04" /> </p>
