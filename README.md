@@ -23,7 +23,7 @@ A passionate Machine Learning Engineer specializing in developing intelligent, d
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamedaboabdallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ahmed-3311b9247/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-ahmed-3311b9247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ahmed-3311b9247/" height="30" width="40" /></a>
 <a href="mailto:mohamed541416@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=512" alt="https://www.gmail.com/" height="30" width="40" /></a>
 </p>
 
