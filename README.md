@@ -29,7 +29,7 @@ A passionate Machine Learning Engineer specializing in developing intelligent, d
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,cpp,python,docker,aws,matlab,express,arduino,postgres,mongodb,mysql,processing,vercel,html,css,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,cpp,python,docker,aws,matlab,express,arduino,postgres,mongodb,mysql,processing,vercel,html,css,vscode,git,github,linux,sklearn,pytorch,php,opencv,obsidian,notion" />
 </div>
 
 <h1></h1>
