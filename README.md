@@ -6,7 +6,7 @@
 A passionate Machine Learning Engineer specializing in developing intelligent, data-driven solutions, with experience designing, training, and deploying scalable models from concept to production.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhany04&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="mohamedaboabdallah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedaboabdallah&label=Profile%20views&color=0e75b6&style=plastic&abbreviated=true" alt="mohamedaboabdallah" /> </p>
 
 <p align="center">
 <picture>
@@ -23,7 +23,7 @@ A passionate Machine Learning Engineer specializing in developing intelligent, d
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omarhany04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ahmed-3311b9247/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamedaboabdallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-ahmed-3311b9247/" height="30" width="40" /></a>
 <a href="mailto:mohamed541416@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=512" alt="https://www.gmail.com/" height="30" width="40" /></a>
 </p>
 
@@ -35,15 +35,15 @@ A passionate Machine Learning Engineer specializing in developing intelligent, d
 <h1></h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhany04&show_icons=true&locale=en&theme=radical&layout=compact" width="300" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaboabdallah&show_icons=true&locale=en&theme=radical&layout=compact" width="300" alt="mohamedaboabdallah" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omarhany04&show_icons=true&theme=radical&locale=en" width="400" alt="omarhany04" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedaboabdallah&show_icons=true&theme=radical&locale=en" width="400" alt="mohamedaboabdallah" />
 </p>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-roan.vercel.app?user=omarhany04&theme=radical&mode=weekly" width="500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rho-roan.vercel.app?user=mohamedaboabdallah&theme=radical&mode=weekly" width="500" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
